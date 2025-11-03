@@ -1,1 +1,61 @@
-# Fyrma
+<h1> Fyrma </h1>
+
+ ### [YouTube Demonstration](https://youtu.be/v_q-TaCOjoU)
+
+<h2>Description</h2>
+This project is a startup that aims to connect pet owners with veterinarians through geolocation and integrated services, such as searching for veterinarians based on user needs, booking appointments online, an integrated messaging system with animal health professionals, and a built-in rating and review system.
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Flutter</b>
+- <b>Firebase</b> 
+- <b>Google APIs</b>
+
+<h2>Environments Used </h2>
+
+- <b>Visual Studio Code</b>
+- <b>Android Studio</b>
+
+
+<h2>Application Overview</h2>
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
