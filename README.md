@@ -19,7 +19,7 @@ This project is a startup that aims to connect pet owners with veterinarians thr
 - <b>Android Studio</b>
 
 
-<h2 align="center">Application Overview</h2>
+<h2>Application Overview</h2>
 
 <!-- 1 -->
 <p align="center">
