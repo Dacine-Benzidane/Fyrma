@@ -24,53 +24,52 @@ This project is a startup that aims to connect pet owners with veterinarians thr
 <p align="center">
 
 <!-- 1 -->
-<figure>
-  <figcaption>1 — Interfaces liées à la demande d'urgence</figcaption>
+<figure align="center">
+  <figcaption><b>1 — Interfaces liées à la demande d'urgence</b></figcaption>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/Fyrma/main/captures/1_Interfaces%20li%C3%A9es%20%C3%A0%20la%20demande%20d'urgence.png" width="80%" alt="Interfaces demande d'urgence"/>
 </figure>
 <br />
 
 <!-- 2 -->
-<figure>
-  <figcaption>2 — Interface liées à la gestion d'une urgence</figcaption>
+<figure align="center">
+  <figcaption><b>2 — Interfaces liées à la gestion d'une urgence</b></figcaption>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/Fyrma/main/captures/2_Interface%20li%C3%A9es%20%C3%A0%20la%20gestion%20d'une%20urgence.png" width="80%" alt="Gestion d'une urgence"/>
 </figure>
 <br />
 
 <!-- 3 -->
-<figure>
-  <figcaption>3 — Interfaces liées à la recherche d'un vétérinaire</figcaption>
+<figure align="center">
+  <figcaption><b>3 — Interfaces liées à la recherche d'un vétérinaire</b></figcaption>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/Fyrma/main/captures/3_Interfaces%20li%C3%A9es%20%C3%A0%20la%20recherche%20d'un%20v%C3%A9t%C3%A9rinaire.png" width="80%" alt="Recherche vétérinaire"/>
 </figure>
 <br />
 
 <!-- 4 -->
-<figure>
-  <figcaption>4 — Interfaces liées à la prise de RDVs</figcaption>
+<figure align="center">
+  <figcaption><b>4 — Interfaces liées à la prise de RDVs</b></figcaption>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/Fyrma/main/captures/4_Interfaces%20li%C3%A9es%20%C3%A0%20la%20prise%20de%20RDVs.png" width="80%" alt="Prise de RDVs"/>
 </figure>
 <br />
 
 <!-- 5 -->
-<figure>
-  <figcaption>5 — Interfaces liées à la messagerie interne</figcaption>
+<figure align="center">
+  <figcaption><b>5 — Interfaces liées à la messagerie interne</b></figcaption>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/Fyrma/main/captures/5_Interfaces%20li%C3%A9es%20%C3%A0%20la%20messagerie%20interne.png" width="80%" alt="Messagerie interne"/>
 </figure>
 <br />
 
 <!-- 6 -->
-<figure>
-  <figcaption>6 — Interfaces liées à la gestion de compte vétérinaire</figcaption>
+<figure align="center">
+  <figcaption><b>6 — Interfaces liées à la gestion de compte vétérinaire</b></figcaption>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/Fyrma/main/captures/6_Interfaces%20li%C3%A9es%20%C3%A0%20la%20gestion%20de%20compte%20v%C3%A9t%C3%A9rinaire.png" width="80%" alt="Gestion compte vétérinaire"/>
 </figure>
 <br />
 
 <!-- 7 -->
-<figure>
-  <figcaption>7 — Interfaces liées à la gestion (fichier nommé tel quel)</figcaption>
-  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/Fyrma/main/captures/7_Interfaces%20li%C3%A9es%20%C3%A0%20la%20gestion%20de%20co..png" width="80%" alt="Interfaces gestion"/>
+<figure align="center">
+  <figcaption><b>7 — Interfaces liées à la gestion de compte propriétaire</b></figcaption>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/Fyrma/main/captures/7_Interfaces%20li%C3%A9es%20%C3%A0%20la%20gestion%20de%20compte%20proprio.png" width="80%" alt="Gestion compte propriétaire"/>
 </figure>
-<br />
 
 </p>
 
